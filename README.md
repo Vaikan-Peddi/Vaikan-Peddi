@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Vaikan-Peddi
-- 👀 I’m interested in programming using C/C++ and Mathematics
+- 👀 I’m interested in programming using C/C++ and Physics
 - 🌱 I’m currently pursuing computer science undergrad at VIT Vellore
 - 💞️ I’m looking to collaborate on C/C++ based Projects
 - 📫 How to reach me vaikanpeddi14@gmail.com
