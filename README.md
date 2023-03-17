@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Vaikan-Peddi
-- 👀 I’m interested in programming using C/C++ and Physics
+- 👀 I’m interested in programming Assembly, C, C++, Python, Haskell, Java, Verilog, and studying Mathematics.
 - 🌱 I’m currently pursuing computer science undergrad at VIT Vellore
-- 💞️ I’m looking to collaborate on C/C++ based Projects
+- 💞️ I’m looking to collaborate on Programming projects of console applications and Data Structures.
 - 📫 How to reach me vaikanpeddi14@gmail.com
 
 <!---
