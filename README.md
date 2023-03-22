@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Vaikan-Peddi
-- 👀 I’m interested in programming Assembly, C, C++, Python, Haskell, Java, Verilog, and studying Mathematics.
+- 👀 I’m interested in programming Assembly, C, C++, Python, Haskell, Java, Verilog, and studying Mathematics and Data Structures and Algorithms.
 - 🌱 I’m currently pursuing computer science undergrad at VIT Vellore
 - 💞️ I’m looking to collaborate on Programming projects of console applications and Data Structures.
 - 📫 How to reach me vaikanpeddi14@gmail.com
