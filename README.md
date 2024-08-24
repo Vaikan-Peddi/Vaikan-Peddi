@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **Multi-Agent Deep Reinforcement Learning Agents**
 
-- 🌱 I’m currently learning **PyTorch, Stable Baselines, Deep Reinforcement Learning**
+- 🌱 I’m currently learning **PyTorch, Stable Baselines, Deep Reinforcement Learning, Genetic Algorithms**
 
-- 👯 I’m looking to collaborate on **Deep Reinforcement Learning research**
+- 👯 I’m looking to collaborate on **Deep Reinforcement Learning and Genetic Algorithms research**
 
 - 💬 Ask me about **Python, PyGame, Game Design, Desktop Development**
 
