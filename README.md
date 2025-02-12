@@ -3,17 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaikan-peddi&label=Profile%20views&color=0e75b6&style=flat" alt="vaikan-peddi" /> </p>
 
-- 🔭 I’m currently working on **Multi-Agent Deep Reinforcement Learning Agents**
+- 🔭 I’m currently working on **Android BSP Driver Development**
 
-- 🌱 I’m currently learning **PyTorch, Stable Baselines, Deep Reinforcement Learning, Genetic Algorithms**
+- 🌱 I’m currently learning **Device Drivers, Linux Development, and C++ Software Development**
 
-- 👯 I’m looking to collaborate on **Deep Reinforcement Learning and Genetic Algorithms research**
+- 👯 I’m looking to collaborate on **Kernel Development**
 
-- 💬 Ask me about **Python, PyGame, Game Design, Desktop Development**
+- 💬 Ask me about **C/C++, Linux, Operating Systems**
 
 - 📫 How to reach me **vaikanpeddi14@gmail.com**
 
-- ⚡ Fun fact **I believe code more than explanations!**
+- ⚡ Fun fact **I am neo...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
