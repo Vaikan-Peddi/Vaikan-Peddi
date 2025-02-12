@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on **Android BSP Driver Development**
 
-- 🌱 I’m currently learning **Device Drivers, Linux Development, and C++ Software Development**
+- 🌱 I’m currently learning **Device Drivers, Linux Development, and C Software Development**
 
 - 👯 I’m looking to collaborate on **Kernel Development**
 
-- 💬 Ask me about **C/C++, Linux, Operating Systems**
+- 💬 Ask me about **C, Linux, Operating Systems**
 
 - 📫 How to reach me **vaikanpeddi14@gmail.com**
 
