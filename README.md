@@ -133,16 +133,6 @@ Prefer engineering depth over trend chasing.
 </a>
 </p>
 
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vaikanpeddi14&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaikanpeddi14&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</p>
-
----
 
 ## Currently Learning
 
