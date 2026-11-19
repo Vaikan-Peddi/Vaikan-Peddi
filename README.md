@@ -101,6 +101,9 @@ Currently exploring:
 ### QueryForge - AI SQL Workspace
 AI-powered platform that converts natural language into safe executable SQL using local LLMs and Go backends.
 
+### AetherOps - AI Operations Engine
+Multi-tenant backend system with AI-powered Document Processing and Question Answering system
+
 ### Tutoring Agents - Socratic OT Tutor
 Built a complete Socratic philosophy inspired tutoring agent for medical sciences
 
